@@ -14,7 +14,7 @@ class PostResource extends JsonResource
      *
      * @param  \Illuminate\Http\Request  $request
      * @return array|\Illuminate\Contracts\Support\Arrayable|\JsonSerializable
-     * tes changing
+     * 
      */
     public function __construct($status, $message, $resource)
     {
